@@ -1,0 +1,27 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+build-full.bat
+target
+.settings
+.classpath
+.project
+.metadata
+.DS_Store
+*.class
+*.pyc
+
+/.metadata/
+
+# Intellij
+.idea/
+*.iml
+
+# Cucumber Testing artifacts
+cucumber-report
+.mvn
+build/runtime/*
+*/.idea
