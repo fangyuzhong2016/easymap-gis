@@ -38,7 +38,7 @@
     <jts.version>1.16.1</jts.version>
 
     <!-- 公共组件库-->
-    <junit.version>4.11</junit.version>
+    <junit.version>4.13.1</junit.version>
     <servlet.version>4.0.1</servlet.version>
     <javax.servlet.jsp-api.version>2.3.3</javax.servlet.jsp-api.version>
     <javax.annotation-api.version>1.3.2</javax.annotation-api.version>
