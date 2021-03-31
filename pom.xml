@@ -48,7 +48,7 @@
     <commons-beanutils.version>1.9.4</commons-beanutils.version>
     <commons-fileupload.version>1.4</commons-fileupload.version>
     <common.pool.version>1.5.5</common.pool.version>
-    <guava.version>28.1-jre</guava.version>
+    <guava.version>29.0-jre</guava.version>
 
     <versions.maven.plugin.version>2.3</versions.maven.plugin.version>
   </properties>
